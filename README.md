@@ -3,6 +3,15 @@
 ### About This Website
 This websit is build for coustomar who want to sell their product by can't sutable place to sell. This website help them to sell there product and get user review so that they can improve product qulity in the future.
 
+# Technology that have been used in this project
+- Html
+- Tailwind
+- React
+- Node js
+- Mongodb
+- Express js
+- And some other React library
+
 ### Feature of the Website
 - Add product
 - Delete Product
