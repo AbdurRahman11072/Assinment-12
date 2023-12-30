@@ -34,3 +34,5 @@ This websit is build for coustomar who want to sell their product by can't sutab
 - User Prime Access
 
 Live Link : https://ass12-cc8ec.firebaseapp.com
+Demo user : Admin
+Password :  Admin014@
