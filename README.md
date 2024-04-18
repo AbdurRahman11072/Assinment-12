@@ -1,14 +1,14 @@
 # E-commerce Website for TechProduct
 
 ### About This Website
-This websit is build for coustomar who want to sell their product by can't sutable place to sell. This website help them to sell there product and get user review so that they can improve product qulity in the future.
+This website is built for customers who want to sell their product but can't find a suitable place to sell it. This website helps them sell their product and get user reviews so that they can improve product quality in the future.
 
-# Technology that have been used in this project
+# Technology that has been used in this project
 - Html
 - Tailwind
 - React
 - Node js
-- Mongodb
+- MongoDB
 - Express js
 - And some other React library
 
@@ -18,13 +18,13 @@ This websit is build for coustomar who want to sell their product by can't sutab
 - Update product
 - Like function
 - Review Function
-- Admin panle
-- Modarator Panle
-- User Panle
-- User can add product update product and delete product
-- Modarator can review add product so that user can upload defective product
-- Modarator can Add Feature product
-- Tranding Product section based on user like
+- Admin panel
+- Moderator Panel
+- User Panel
+- User can add products update products and delete product
+- Moderator can review and add products so that users can upload defective product
+- Moderator can Add Feature product
+- Trending Product section based on the user-like
 - Feature product section based on timestamp
 - pagination
 - Jwt Authentication
@@ -33,8 +33,8 @@ This websit is build for coustomar who want to sell their product by can't sutab
 - Payment Methode
 - User Prime Access
 
-Live Link : https://hitech-10215.firebaseapp.com
+Live Link: https://hitech-10215.firebaseapp.com
 
-### Demo user : Admin
+### Demo user: Admin
 
-### Password :  Admin014@
+### Password:  Admin014@
