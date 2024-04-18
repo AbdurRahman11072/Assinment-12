@@ -33,7 +33,7 @@ This websit is build for coustomar who want to sell their product by can't sutab
 - Payment Methode
 - User Prime Access
 
-Live Link : https://ass12-cc8ec.firebaseapp.com
+Live Link : https://hitech-10215.firebaseapp.com
 
 ### Demo user : Admin
 
